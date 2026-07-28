@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work with Claude"
+  short_description: "Run an independent Claude engineer in the background"
+  default_prompt: "Use $work-with-claude to run Claude quietly in the background as an independent engineer and show me three rendered prototypes."
